@@ -8,49 +8,26 @@
 },
 "Contact": {
   "EMail": "tamana_muhseny@outlook.com",
-  "Phone": "(252) 527-9890",
-  "Portfolio": "https://muhseny.github.io/tamana-muhseny-portfolio.github.io/",
+  "Phone": "(253) 527-9890",
+  "Portfolio": "muhseny.github.io/tamana-muhseny-portfolio.github.io/",
   "LinkedIn": "www.linkedin.com/in/tamana-muhseny"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "I am recently graduated from Seattle Pacific University as an Electrical Engineer.<br><br>Currently I am working working on independent projects to keep myself engaged with my major and improve my skills beyond classwork.",
   "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
+  "Major": "Electrical Engineering",
+  "Graduation": "June 2026",
   "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "Role": "Learning Assistant",
+  "EmploymentText": "As a learning assistant I had the chance to help students with homework and in-class questions.",
+  "Skills": ["C++", " Python", " Multisim", " Altium Designer"," Oscilloscope"],
+  "Resume": "muhseny-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
+    "Title": "Embedded Robotics System Senior Design Project",
+    "Desc": "H-Mobile, a home improvement device that will assist users in handling heavy items.<br><br>The purpose of H-Mobile is to alleviate strains on the body when people of any age are handling heavy items.",
+    "Website": "scholars.spu.edu/h-mobile/",
+    "MainImage": "h-mobile.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
-  },
-  "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
-  },
-  "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
-  },
-  "Project4": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
   }
 }
