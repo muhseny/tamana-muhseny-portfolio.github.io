@@ -4,7 +4,7 @@
   "Currently": "Electrical Engineering Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Tamana Muhseny, recent Electrical Engineering graduate from Seattle Pacific University.<br><br>I am dedicated to building a career in Electrical Engineering field mainly as in practical and hands-on works."
+  "AboutText": "Hi, I am Tamana Muhseny, Electrical Engineering student at Seattle Pacific University.<br><br>I am dedicated to building a career in Electrical Engineering field. I mainly enjoy practical and hands-on works.<br><br>I have enjoyed my classroom circuitry projects.<br><br>Beyond the classroom, I have been member Falcon Racing: Baja club on campus. By participating in this club I have learned team work and analyzing problems from different perspectives."
 },
 "Contact": {
   "EMail": "tamana_muhseny@outlook.com",
@@ -13,13 +13,43 @@
   "LinkedIn": "https://www.linkedin.com/in/tamana-muhseny"
 },
 "Experience": {
-  "ExperienceText": "I am recently graduated from Seattle Pacific University as an Electrical Engineer.<br><br>Currently I am working working on independent projects to keep myself engaged with my major and improve my skills beyond classwork.",
+  "ExperienceText": "I am an Electrical Engineering student at Seattle Pacific University.<br><br>As a student I have been able to develop skills such as reading schematics, problems solving, and troubleshooting though my classes. And I am looking forward to utilize these skills in my career beyond college classes.",
   "School": "Seattle Pacific University",
   "Major": "Electrical Engineering",
   "Graduation": "June 2026",
+  "EducationText": "Currently pursuing a degree in Electrical Engineering, where I am building a strong foundation in circuits analysis, schematic reading, and problem solving.",
   "Employment": "Seattle Pacific University",
   "Role": "Learning Assistant",
   "EmploymentText": "As a learning assistant I had the chance to help students with homework and in-class questions.",
-  "Skills": ["C++", " Python", " Multisim", " Altium Designer"," Oscilloscope"] 
-}
+  "Skills": ["C++", " Python", " Multisim", " Altium Designer"," Oscilloscope"],
+  "SkillsText": "I have used C++ and Python for my class projects. As well as Multisim, Altium Designer, and Oscilloscope.",
+},
+"Project1": {
+    "Title": "Interesting Project 1",
+    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "GitHubRepo": "https://github.com",
+    "MainImage": "P1Main.png",
+    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+  },
+  "Project2": {
+    "Title": "Interesting Project 2",
+    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "GitHubRepo": "https://github.com",
+    "MainImage": "P2Main.png",
+    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+  },
+  "Project3": {
+    "Title": "Interesting Project 3",
+    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "GitHubRepo": "",
+    "MainImage": "P3Main.png",
+    "DetailImages": []
+  },
+  "Project4": {
+    "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "",
+    "DetailImages": []
+  }
 }
