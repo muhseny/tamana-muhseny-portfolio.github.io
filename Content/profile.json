@@ -20,8 +20,7 @@
   "Employment": "Seattle Pacific University",
   "Role": "Learning Assistant",
   "EmploymentText": "As a learning assistant I had the chance to help students with homework and in-class questions.",
-  "Skills": ["C++", " Python", " Multisim", " Altium Designer"," Oscilloscope"],
-  "Resume": "muhseny-resume.pdf"  
+  "Skills": ["C++", " Python", " Multisim", " Altium Designer"," Oscilloscope"] 
 },
 "Project1": {
     "Title": "Embedded Robotics System Senior Design Project",
