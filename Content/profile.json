@@ -21,12 +21,5 @@
   "Role": "Learning Assistant",
   "EmploymentText": "As a learning assistant I had the chance to help students with homework and in-class questions.",
   "Skills": ["C++", " Python", " Multisim", " Altium Designer"," Oscilloscope"] 
-},
-"Project1": {
-    "Title": "Embedded Robotics System Senior Design Project",
-    "Desc": "H-Mobile, a home improvement device that will assist users in handling heavy items.<br><br>The purpose of H-Mobile is to alleviate strains on the body when people of any age are handling heavy items.",
-    "Website": "scholars.spu.edu/h-mobile/",
-    "MainImage": "h-mobile.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
-  }
+}
 }
