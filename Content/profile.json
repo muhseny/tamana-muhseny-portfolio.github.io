@@ -30,7 +30,7 @@
 "Project1": {
     "Title": "Embedded Robotics System Senior Design Project",
     "Desc": "H-Mobile, a home improvement device that will assist users in handling heavy items.<br>The purpose of H-Mobile is to alleviate strains on the body when people of any age are handling heavy items.<br><br>People could experience difficulty in picking up items from the ground to a level where they can easily access the contents.<br>",
-    "GitHubRepo": "https://github.com",
+    "GitHubRepo": "https://scholars.spu.edu/h-mobile/",
     "MainImage": "h-mobile.png",
     "DetailImages": ["h-mobile1.png","h-mobile2.png"]
   },
