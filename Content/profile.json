@@ -28,15 +28,15 @@
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Title": "Embedded Robotics System Senior Design Project",
+    "Desc": "H-Mobile, a home improvement device that will assist users in handling heavy items.<br>The purpose of H-Mobile is to alleviate strains on the body when people of any age are handling heavy items.<br><br>People could experience difficulty in picking up items from the ground to a level where they can easily access the contents.<br>",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "Title": "AWE in the Context of Disaster Relief Situations Research Project",
+    "Desc": "Research on hybrid AWE + diesel microgrid to power critical infrastructure post-disaster focusing on Guayama, Puerto Rico, a hurricane-prone region.<br>",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
