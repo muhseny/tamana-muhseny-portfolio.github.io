@@ -31,14 +31,15 @@
     "Title": "Embedded Robotics System Senior Design Project",
     "Desc": "H-Mobile, a home improvement device that will assist users in handling heavy items.<br>The purpose of H-Mobile is to alleviate strains on the body when people of any age are handling heavy items.<br><br>People could experience difficulty in picking up items from the ground to a level where they can easily access the contents.<br>",
     "H-Mobile Website": "https://scholars.spu.edu/h-mobile/",
-    "MainImage": "h-mobile.png"
-    
+    "MainImage": "h-mobile.png",
+    "DetailImages": []
   },
   "Project2": {
     "Title": "AWE in the Context of Disaster Relief Situations Research Project",
     "Desc": "Research on hybrid AWE + diesel microgrid to power critical infrastructure post-disaster focusing on Guayama, Puerto Rico, a hurricane-prone region.<br>",
-    "Research Paper": "https://github.com",
-    "MainImage": "research-paper.png"
+    "Research Paper": "AWE-research.pdf.docx",
+    "MainImage": "research-paper.png",
+    "DetailImages": []
   },
   "Project3": {
     "Title": "Interesting Project 3",
