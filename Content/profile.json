@@ -44,15 +44,15 @@
   "Project3": {
     "Title": "Interesting Project 3",
     "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
+    "GitHub-Repo": "",
+    "Main-Image": "",
+    "Detail-Images": []
   },
   "Project4": {
     "Title": "",
     "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
+    "GitHub-Repo": "",
+    "Main-Image": "",
+    "Detail-Images": []
   }
 }
